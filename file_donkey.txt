@@ -1,0 +1,1 @@
+this is program which replace ###### with specific word
